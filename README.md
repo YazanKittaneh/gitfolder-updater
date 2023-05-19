@@ -28,4 +28,3 @@ The script will then perform all the necessary steps to set up the git update sc
 ### Troubleshooting
 
 If you encounter any issues, you can check the log file at /tmp/git_update.log for more details.
-' > Readme.md
